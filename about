@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - Pratik Aggarwal</title>
+</head>
+
+<body>
+
+<a href="index.html">Home</a> |
+<a href="about.html">About</a> |
+<a href="work.html">Work</a> |
+<a href="bloominginpain.html">Blooming in Pain</a> |
+<a href="contact.html">Contact</a>
+
+<hr>
+
+<h1>About Me</h1>
+
+<p>
+I am a disability rights practitioner working on inclusive education, accessibility,
+and dignity for persons with disabilities. For several years, I have worked closely
+with children with disabilities, families, schools, hospitals, and government systems
+to build more inclusive environments.
+</p>
+
+<p>
+I currently serve as the Executive Director of ASTHA, where we run resource centres,
+inclusive education programs, trainings, and partnerships to support children and
+young adults with disabilities.
+</p>
+
+<p>
+Alongside my professional work, I also live with chronic pain. Through my initiative
+Blooming in Pain, I write and speak about pain, identity, vulnerability, and leadership.
+</p>
+
+<p>
+My work sits at the intersection of disability, pain, systems, and human dignity.
+</p>
+
+</body>
+</html>
