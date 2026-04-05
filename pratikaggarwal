@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pratik Aggarwal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            max-width: 800px;
+        }
+        h1, h2 {
+            color: #222;
+        }
+        a {
+            color: #0077cc;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Pratik Aggarwal</h1>
+<p><strong>Disability Rights Practitioner | Executive Director, ASTHA</strong></p>
+
+<hr>
+
+<h2>About</h2>
+<p>
+I work at the intersection of disability, inclusion, and lived experience. 
+With over 7 years of grassroots work, I engage with children, families, 
+and systems to build inclusive education and accessible communities.
+</p>
+
+<p>
+Through my initiative <strong>Blooming in Pain</strong>, I also write and speak 
+about chronic pain, identity, and leadership.
+</p>
+
+<hr>
+
+<h2>Work</h2>
+<ul>
+<li>Inclusive education and resource centres</li>
+<li>Disability rights and policy engagement</li>
+<li>Training and sensitization (DEI, accessibility)</li>
+<li>Partnerships with hospitals, NGOs, and institutions</li>
+</ul>
+
+<hr>
+
+<h2>Speaking & Consulting</h2>
+<p>
+I have spoken at national and international platforms including UNICEF, 
+embassies, and conferences on disability and inclusion.
+</p>
+
+<p>
+Available for:
+<ul>
+<li>DEI trainings</li>
+<li>Disability inclusion consulting</li>
+<li>Workshops and talks</li>
+</ul>
+</p>
+
+<hr>
+
+<h2>Blooming in Pain</h2>
+<p>
+A space where I explore chronic pain, vulnerability, and resilience 
+through writing and conversations.
+</p>
+
+<hr>
+
+<h2>Contact</h2>
+<p>Email: your@email.com</p>
+<p>LinkedIn: <a href="#">Add your link</a></p>
+
+</body>
+</html>
